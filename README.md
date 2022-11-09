@@ -1,7 +1,7 @@
 # Assignment3
 1 The major difference is that in 2019 the lighing of singapore at night time is brighter than it was in 2013, which could lead to higher possibilities of light pollution. Specifically, some places like the Signpore Port Terminal and the Central Business District still remain as some of the brightest places in signopre in both 2013 and 2019. Some new areas are showing signs of incresing lighting usage such as the areas around the center of Singapore and the island on the southwest. 
 
-2 I used the commercial buildings with in building for the layer because most of the light would probably be the exterior and interior light of the commercial buildings.
+2 I used the commercial buildings with in building and bar within amenity for the layers because most of the light would probably be the exterior and interior light of the commercial buildings and the bars are locations opening at night.
 
 3 I managed to get some data showing that Singapore is heavily invested in infrastructure and that lead to more light pollutions. Additonally, the local and tourists population had grown in size with a combined increase of 3.84 million which is more than half of the current populaiton of Singapore.
 4a The trend is that the lighting at night time is increasing and expanding from the costal areas to inland Singapore. 
